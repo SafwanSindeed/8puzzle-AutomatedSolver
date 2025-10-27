@@ -1,11 +1,11 @@
-# 8-Puzzle A* Solver Visualization
+# 8-Puzzle 
 
 ## 🎯 Overview
 This project visualizes the **A\*** search algorithm solving the 8-puzzle problem.
 
-- `solver.py` → contains your A* algorithm (unchanged).
+- `solver.py` → contains our A* algorithm.
 - `gui.py` → provides an interactive Tkinter GUI.
-- The GUI starts with first test case board (`724506831`) by default. But you maye change it up if you want.
+- The GUI starts with first test case board (`724506831`) by default. But you may change it up if you want.
 
 ---
 
@@ -20,3 +20,4 @@ This project visualizes the **A\*** search algorithm solving the 8-puzzle proble
 2. Run:
     ```bash
    python gui.py
+
